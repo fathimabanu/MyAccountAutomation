@@ -1,0 +1,11 @@
+URL ID,UI Type,Action,Read Type,Read Path,Data
+https://web.qa.wapp.com/login,button,click,xpath,"//button[contains(text(),'Accept all')]",
+https://web.qa.wapp.com/login,button,click,linkText,Don't have an account? Register,
+https://web.qa.wapp.com/register-step-1,calender,NA,id,dobString,06/09/95
+https://web.qa.wapp.com/register-step-1,text,NA,id,firstName,Intervest
+https://web.qa.wapp.com/register-step-1,text,NA,id,lastName,Intervest
+https://web.qa.wapp.com/register-step-1,text,NA,id,mobileNumber,2345678988
+https://web.qa.wapp.com/register-step-1,button,click,id,submit,
+https://web.qa.wapp.com/register-step-2,text,NA,id,loginEmail,lahiru1234wapp@pm.me
+https://web.qa.wapp.com/register-step-2,text,NA,id,password,January*27
+https://web.qa.wapp.com/register-step-2,button,click,id ,submitRegister,

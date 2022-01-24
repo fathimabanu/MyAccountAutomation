@@ -1,0 +1,13 @@
+URL ID,UI Type,Action,Read Type,Read Path,Data
+https://web.qa.petsure.com/pet-name,button,click,id,accept-all,
+https://web.qa.petsure.com/pet-name,text,NA,id,petName,cat
+https://web.qa.petsure.com/pet-name,button,click,id,submit,
+https://web.qa.petsure.com/pet-type,radio,click,xpath,//label[@for=''],cat
+https://web.qa.petsure.com/pet-type,button,click,id,submit,
+https://web.qa.petsure.com/pet-gender,radio,click,xpath,//label[@for=''],male
+https://web.qa.petsure.com/pet-gender,text,NA,id,day,12
+https://web.qa.petsure.com/pet-gender,text,NA,id,month,12
+https://web.qa.petsure.com/pet-gender,text,NA,id,year,2018
+https://web.qa.petsure.com/pet-gender,button,click,id,submit,
+https://web.qa.petsure.com/pet-breed,radio,click,xpath,//label[@for=''],moggy
+https://web.qa.petsure.com/pet-breed,button,click,id,submit,
